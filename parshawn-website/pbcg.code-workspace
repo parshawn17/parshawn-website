@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../pbcg"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "parshawn-website"
+	}
+}
